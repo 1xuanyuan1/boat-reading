@@ -1,1 +1,3 @@
-# boat-reading
+# 仿追书神器轻舟版
+
+使用 Vue2.0 语法基于 weex 框架以及 boat 平台轻松构建三端应用
